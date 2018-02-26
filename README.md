@@ -1,6 +1,6 @@
 # Choosing-best-classifier-for-your-data-all-classifiers-in-one-code-
 Get the code from here:
-https://gum.co/HKma
+https://gum.co/slygy
 
 Watch the code from here:
 https://youtu.be/D_WkJ37qV8I
@@ -11,7 +11,7 @@ The code is implemented in a GUI (user friendly) to facilitate using the program
 
 Contact me:
 email: s-ahmed.saleh@zewailcity.edu.eg
-List of all my codes: https://gumroad.com/ahmed_s
+List of all my codes: https://gumroad.com/ahmedsaleh
 
 Hire me directly on freelancer:
 https://www.freelancer.com/u/AhmedSobhiSaleh
